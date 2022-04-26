@@ -15,7 +15,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 ## Contributors List and Summary
 
-|PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
  Pika Trisha Srinivas | Complete project   | 6   | 6     |
     
