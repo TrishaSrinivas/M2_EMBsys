@@ -17,7 +17,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`99007695` | vempalli c s s v vara prasad | Complete project   | 6   | 6     |
+ Pika Trisha Srinivas | Complete project   | 6   | 6     |
     
 
 ## Challenges Faced and How Was It Overcome
